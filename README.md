@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web development projects 
 - 📫 How to reach me kirasicleo@gmail.com
 
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leokirasic&show_icons=true&theme=dracula)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leokirasic&theme=blood-dark)](https://git.io/streak-stats)
 
 
 <!---
