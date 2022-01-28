@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeoKirasic
 - 👀 I’m interested in Web development and linux
-- 🌱 I’m currently working on Memory Card.
+- 🌱 I’m currently working on Shopping-cart.
 - 💞️ I’m looking to collaborate on Web development projects 
 - 📫 How to reach me kirasicleo@gmail.com
 
